@@ -77,8 +77,8 @@ USAGE INSTRUCTIONS
 
 PROJECT FILES
 ├── NeuralNetwork-from-Scratch-with-Numpy-ML-Task.ipynb  (Main code)
-├── traininghistory.png                                 (Results plot)
-└── Neural_Network_README.txt                           (This file)
+├── traininghistory.png                                 
+└── Neural_Network_README.md                          
 
 CONCLUSION & KEY LEARNINGS
 Achieved production-quality 97.99% accuracy with pure NumPy
