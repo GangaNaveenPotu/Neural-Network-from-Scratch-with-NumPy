@@ -1,4 +1,4 @@
-<------------------------------------Neural Network from Scratch with Numpy--------------------------------------------->
+<------------------------------------Neural Network from Scratch with Numpy------------------------------------------->
 
 PROJECT OVERVIEW
 Handwritten Digit Recognition using feedforward Neural Network built entirely from scratch with NumPy only.
